@@ -1,2 +1,2 @@
-streamlit==1.31.0
-pyqrcode==1.2.1
+streamlit
+pyqrcode
